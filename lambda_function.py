@@ -5,5 +5,5 @@ def lambda_handler(event, context):
                 "Age" :  [23, 24, 22, 18]}
     df = pd.DataFrame(data=data)
     print(df)
-    print("Done")
+    print("Done 1")
     
